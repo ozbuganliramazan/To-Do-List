@@ -1,8 +1,8 @@
-<h1>Liste yap</h1>
+<h1>To Do List</h1>
 
 
 
-<p>Html,Css,Javascprit,liste,yapmak,üstünü çiz ve sil</p>
+<p>Editing To-Do Lists With HTML CSS Javascript</p>
 
 
 
